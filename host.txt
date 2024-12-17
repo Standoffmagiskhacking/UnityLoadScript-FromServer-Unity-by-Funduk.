@@ -1,1 +1,1 @@
-192.168.x.x
+https://raw.githubusercontent.com/Standoffmagiskhacking/UnityLoadScript-FromServer-Unity-by-Funduk./refs/heads/main/script.py?token=GHSAT0AAAAAAC3HPLMOWOT3SM4MG2KIONWIZ3BMIOA
